@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production
+dist/
+dist-ssr/
+
+# Logs & Binaries
+cloudflared.exe
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment & System
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
